@@ -2,6 +2,7 @@
 /* demo.c: My first C program */
 int main(void)
 {
+    printf("added a new line");
     //variable declaration
     const int barsInBox = 12;
     int inputBoxes, outputBars;
